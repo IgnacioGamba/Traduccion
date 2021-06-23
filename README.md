@@ -8,5 +8,5 @@
 <p>Traducción y resumen sobre la descarbonización</p>
 
 <a href="">
-<img src= "https://user-images.githubusercontent.com/83772532/123160574-be452800-d444-11eb-9951-f0606153932f.png">
+<img src= "(https://user-images.githubusercontent.com/82124406/123165434-9789f000-d44a-11eb-83a9-ece75b133fb2.png">
 </a>
