@@ -1,8 +1,8 @@
-# TRADUCCION 
+# Traducción
 #### Trabajo de Tecnicas y Herramientas Modernas <br>
 #### Modulo 1 
-#### Creacion de Textos e Hipertextos. <br>
-#### Traduccion Sustainable Energy Transitions
+#### Creación de Textos e Hipertextos. <br>
+#### Traducción Sustainable Energy Transitions
 
 # Traducción del capítulo 10
 <p>Traducción y resumen sobre la descarbonización</p>
